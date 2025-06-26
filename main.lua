@@ -46,13 +46,6 @@ function IsSteamDeck()
 	return IS_STEAM_DECK
 end
 
-
-function ValidateLineNumber(num)
-	if TheSim then
-		TheSim:ValidateLineNumber(num)
-	end
-end
-
 --defines
 MAIN = 1
 ENCODE_SAVES = BRANCH ~= "dev"

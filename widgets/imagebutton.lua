@@ -170,7 +170,6 @@ function ImageButton:OnLoseFocus()
     end
 end
 
-ValidateLineNumber(173)
 function ImageButton:OnControl(control, down)
     if not self:IsEnabled() or not self.focus then return end
 
@@ -221,7 +220,6 @@ function ImageButton:OnControl(control, down)
         return true
     end
 end
-ValidateLineNumber(224)
 
 --------------------------------------------------------------------------
 --V2C: IsEnabled() checks hierarchy, but OnEnable()/OnDisable() don't notify children.

@@ -96,11 +96,6 @@ function IsSteamDeck()
 	return IS_STEAM_DECK
 end
 
-
-function ValidateLineNumber(num)
-	--do nothing
-end
-
 require("stacktrace")
 
 require("simutil")

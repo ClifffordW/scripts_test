@@ -57,7 +57,6 @@ local function ShowGenericError(...)
     TheFrontEnd:PushScreen(server_error)
 end
 
-ValidateLineNumber(60)
 function BarterScreen:_BuildDialog()
     local current_doodads = TheInventory:GetCurrencyAmount()
     local doodad_sign = nil
@@ -226,7 +225,6 @@ function BarterScreen:_BuildDialog()
 
     return dialog
 end
-ValidateLineNumber(229)
 
 function BarterScreen:_OnCancel()
     self.prev_screen.launched_commerce = nil
