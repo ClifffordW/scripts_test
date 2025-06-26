@@ -119,16 +119,6 @@ function PlantRegistryData:Load()
 				self.filters = plant_registry.filters or {}
 				self.last_selected_card = plant_registry.last_selected_card or {}
 
-				if InGamePlay() then
-					local guy
-					local dude = ThePlayer
-					dude:DoTaskInTime(2, function()
-						for i = 1, 10 do
-							guy = SpawnPrefab("beefalo")
-							guy.Transform:SetPosition(dude.Transform:GetWorldPosition())
-						end
-					end)
-				end
 			else
 				print("Failed to load the plantregistry!", plant_registry)
 			end
