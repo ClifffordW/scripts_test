@@ -2021,14 +2021,6 @@ function c_spawnrift()
     end
 end
 
-function c_ihatemycookbook()
-	
-	local str = json.encode("RIP MY DATA")
-	TheSim:SetPersistentString("cookbook", str, false)
-	self.dirty = false
-	
-end
-
 local function showradius_createent()
     local ent = CreateEntity()
     --[[Non-networked entity]]

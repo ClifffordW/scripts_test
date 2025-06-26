@@ -100,9 +100,7 @@ end
 
 function PlantRegistryData:Save(force_save)
 	if force_save or (self.save_enabled and self.dirty) then
-		local str = DataDumper(
-		{ plants = self.plants, fertilizers = self.fertilizers, pictures = self.pictures, filters = self.filters, last_selected_card =
-		self.last_selected_card }, nil, true)
+		local str = DataDumper({plants = self.plants, fertilizers = self.fertilizers, pictures = self.pictures, filters = self.filters, last_selected_card = self.last_selected_card}, nil, true)
 		TheSim:SetPersistentString("plantregistry", str, false)
 		self.dirty = false
 	end
@@ -111,14 +109,13 @@ end
 function PlantRegistryData:Load()
 	TheSim:GetPersistentString("plantregistry", function(load_success, data)
 		if load_success and data ~= nil then
-			local success, plant_registry = RunInSandbox(data)
-			if success and plant_registry then
+            local success, plant_registry = RunInSandbox(data)
+		    if success and plant_registry then
 				self.plants = plant_registry.plants or {}
 				self.fertilizers = plant_registry.fertilizers or {}
 				self.pictures = plant_registry.pictures or {}
 				self.filters = plant_registry.filters or {}
 				self.last_selected_card = plant_registry.last_selected_card or {}
-
 			else
 				print("Failed to load the plantregistry!", plant_registry)
 			end
@@ -130,7 +127,7 @@ local function DecodePlantRegistryStages(value)
 	local bitstages = tonumber(value, 16)
 	local stages = {}
 	for i = 1, 8 do
-		if checkbit(bitstages, 2 ^ (i - 1)) then
+		if checkbit(bitstages, 2^(i-1)) then
 			stages[i] = true
 		end
 	end
@@ -140,7 +137,7 @@ end
 local function EncodePlantRegistryStages(stages)
 	local bitstages = 0
 	for i in pairs(stages) do
-		bitstages = setbit(bitstages, 2 ^ (i - 1))
+		bitstages = setbit(bitstages, 2^(i-1))
 	end
 	return string.format("%x", bitstages)
 end
@@ -311,8 +308,7 @@ function PlantRegistryData:TakeOversizedPicture(plant, weight, player, beardskin
 			picture.beardlength = nil
 		end
 		if def and not def.modded and not TheNet:IsDedicated() then
-			TheInventory:SetPlantRegistryValue("oversized_" .. plant,
-				TheSim:ZipAndEncodeString(DataDumper(picture, nil, true)))
+			TheInventory:SetPlantRegistryValue("oversized_"..plant, TheSim:ZipAndEncodeString(DataDumper(picture, nil, true)))
 		end
 		self:Save(true)
 	end
