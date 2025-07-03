@@ -808,6 +808,11 @@ msgctxt "STRINGS.ACTIONS.DROP.PLACELANTERN"
 msgid "Place"
 msgstr ""
 
+#. STRINGS.ACTIONS.DROP.PLAYERFLOATER
+msgctxt "STRINGS.ACTIONS.DROP.PLAYERFLOATER"
+msgid "Let Go"
+msgstr ""
+
 #. STRINGS.ACTIONS.DROP.SETMINE
 msgctxt "STRINGS.ACTIONS.DROP.SETMINE"
 msgid "Set Mine"
@@ -5996,6 +6001,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FLARE_SEEN
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FLARE_SEEN"
 msgid "I wonder who set that flare?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FLOATER_HELD"
+msgid "I was busy drowning but something came up... me!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FLOATER_LETGO"
+msgid "I hate being kept in susp-"
 msgstr ""
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FOODMEMORY
@@ -23893,6 +23908,16 @@ msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_FLARE_SEEN"
 msgid "A signal! We should follow it!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_FLOATER_HELD"
+msgid "I knew I'd come out on top!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WALTER.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_FLOATER_LETGO"
+msgid "Submerging!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WALTER.ANNOUNCE_FOODMEMORY
 msgctxt "STRINGS.CHARACTERS.WALTER.ANNOUNCE_FOODMEMORY"
 msgid "only_used_by_warly"
@@ -41693,6 +41718,16 @@ msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_FLARE_SEEN"
 msgid "Was that a flare? I'd better hurry and see what's going on!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_FLOATER_HELD"
+msgid "I saw my life flash before my eyes... not in any particular order."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WANDA.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_FLOATER_LETGO"
+msgid "I hate this part!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WANDA.ANNOUNCE_FOODMEMORY
 msgctxt "STRINGS.CHARACTERS.WANDA.ANNOUNCE_FOODMEMORY"
 msgid "only_used_by_warly"
@@ -59188,6 +59223,16 @@ msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_FLARE_SEEN"
 msgid "What's this? Someone's trying to get our attention."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_FLOATER_HELD"
+msgid "I feel like a dumpling!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WARLY.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_FLOATER_LETGO"
+msgid "Was that wise?"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WARLY.ANNOUNCE_FOODMEMORY
 msgctxt "STRINGS.CHARACTERS.WARLY.ANNOUNCE_FOODMEMORY"
 msgid "\nI'd rather not eat the same old thing again."
@@ -75816,6 +75861,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FLARE_SEEN
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FLARE_SEEN"
 msgid "My allies beckon me!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FLOATER_HELD"
+msgid "Aye, I deny thee, Njord!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FLOATER_LETGO"
+msgid "Curse thee, Njord!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FOODMEMORY
@@ -93293,6 +93348,16 @@ msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FLARE_SEEN"
 msgid "Am I supposed to come running every time I spot a flare?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FLOATER_HELD"
+msgid "There are unspeakable horrors below."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FLOATER_LETGO"
+msgid "Ah!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FOODMEMORY
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FOODMEMORY"
 msgid "only_used_by_warly"
@@ -110683,6 +110748,16 @@ msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FLARE_SEEN"
 msgid "Oh, someone's calling us to come over."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FLOATER_HELD"
+msgid "We float!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FLOATER_LETGO"
+msgid "Weeee!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FOODMEMORY
 msgctxt "STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FOODMEMORY"
 msgid "only_used_by_warly"
@@ -128071,6 +128146,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_FLARE_SEEN
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_FLARE_SEEN"
 msgid "Someone just shot a flare..."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_FLOATER_HELD"
+msgid "What now?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WENDY.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_FLOATER_LETGO"
+msgid "It's time."
 msgstr ""
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_FOODMEMORY
@@ -145543,6 +145628,16 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FLARE_SEEN"
 msgid "Someone's fired a flare."
 msgstr ""
 
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FLOATER_HELD"
+msgid "Hmm, rather convenient."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FLOATER_LETGO"
+msgid "Time for a dip!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FOODMEMORY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FOODMEMORY"
 msgid "only_used_by_warly"
@@ -162901,6 +162996,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FLARE_SEEN
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FLARE_SEEN"
 msgid "Woah, cool! Someone shot fire into the sky!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FLOATER_HELD"
+msgid "Something touched my foot."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FLOATER_LETGO"
+msgid "I hate waiting!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_FOODMEMORY
@@ -180316,6 +180421,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_FLARE_SEEN
 msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_FLARE_SEEN"
 msgid "A flare! Hold on, I'm comin'!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_FLOATER_HELD"
+msgid "Thank goodness for this!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WINONA.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WINONA.ANNOUNCE_FLOATER_LETGO"
+msgid "Like a bag of rocks!"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WINONA.ANNOUNCE_FOODMEMORY
@@ -197813,6 +197928,16 @@ msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FLARE_SEEN"
 msgid "Sky fire! Wolfgang is coming, dear friend!"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FLOATER_HELD"
+msgid "Wolfgang unsinkable!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FLOATER_LETGO"
+msgid "Oopsie!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FOODMEMORY
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_FOODMEMORY"
 msgid "only_used_by_warly"
@@ -215193,6 +215318,16 @@ msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FLARE_SEEN"
 msgid "I should go check out that flare, eh?"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FLOATER_HELD"
+msgid "That was a close one!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FLOATER_LETGO"
+msgid "Why'd I let-"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FOODMEMORY
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FOODMEMORY"
 msgid "only_used_by_warly"
@@ -232561,6 +232696,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FLARE_SEEN
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FLARE_SEEN"
 msgid "See friend make pretty light"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FLOATER_HELD"
+msgid "Good baby floater"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FLOATER_LETGO"
+msgid "Bye, baby flo-"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FOODMEMORY
@@ -249971,6 +250116,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FLARE_SEEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FLARE_SEEN"
 msgid "One of my friends is inviting me to play!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FLOATER_HELD"
+msgid "Wet fur? What for?"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FLOATER_LETGO"
+msgid "No time to rhy-"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_FOODMEMORY
@@ -267543,6 +267698,16 @@ msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_FLARE_SEEN"
 msgid "Fire in sky??"
 msgstr ""
 
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_FLOATER_HELD"
+msgid "See? Me best floater."
+msgstr ""
+
+#. STRINGS.CHARACTERS.WURT.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_FLOATER_LETGO"
+msgid "Glurph!"
+msgstr ""
+
 #. STRINGS.CHARACTERS.WURT.ANNOUNCE_FOODMEMORY
 msgctxt "STRINGS.CHARACTERS.WURT.ANNOUNCE_FOODMEMORY"
 msgid "only_used_by_warly"
@@ -285061,6 +285226,16 @@ msgstr ""
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_FLARE_SEEN
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_FLARE_SEEN"
 msgid "MINION PING RECEIVED"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_FLOATER_HELD
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_FLOATER_HELD"
+msgid "ERROR: WHY WHHHY!"
+msgstr ""
+
+#. STRINGS.CHARACTERS.WX78.ANNOUNCE_FLOATER_LETGO
+msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_FLOATER_LETGO"
+msgid "I WILL RETURN"
 msgstr ""
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_FOODMEMORY
@@ -337443,6 +337618,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_an"
 msgid "The artful design of this pendant is nothing short of brilliant."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_flame
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_flame"
+msgid "Keep the comforting glow of firelight close to your heart."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_ornate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_ornate"
 msgid "Authors are always in need of bright ideas to achieve their vision."
@@ -337825,7 +338005,7 @@ msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.beargerfursack_mystical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beargerfursack_mystical"
-msgid "Preserve your precious morsels."
+msgid "A crystalline cooler to contain your cookery."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.beargerfursack_rose
@@ -340883,6 +341063,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_kitchen"
 msgid "Packed with love and care."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.bundle_metal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_metal"
+msgid "Imprison your goods in this superior metal casing."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.bundle_mystical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundle_mystical"
 msgid "Wrap your goods in mystery."
@@ -340906,6 +341091,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.bundlewrap_kitchen
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundlewrap_kitchen"
 msgid "Packed with love and care."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.bundlewrap_metal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.bundlewrap_metal"
+msgid "Imprison your goods in this superior metal casing."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.bundlewrap_mystical
@@ -341011,6 +341201,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.cavein_boulder_kettlebell
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.cavein_boulder_kettlebell"
 msgid "Achieve rock-hard muscles in no time flat!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.chair_stool_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.chair_stool_cawnival"
+msgid "Step right up... and sit down."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.chair_stool_fantasy
@@ -341138,6 +341333,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.critterlab_gothic"
 msgid "What could reside in a place so dark and dour?"
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_cawnival"
+msgid "Come one, come all! It's the Cawnival!"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_fantasy"
 msgid "For when it's time to vine and dine your friends."
@@ -341156,6 +341356,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_centerpiece_western"
 msgid "The best of the herd."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.decor_flowervase_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_flowervase_cawnival"
+msgid "Eggspertly carved."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.decor_flowervase_fantasy
@@ -341178,6 +341383,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_flowervase_western"
 msgid "A simple vase that lets your flowers take center stage."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.decor_lamp_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_lamp_cawnival"
+msgid "Let the festivities shine on through the night!"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.decor_lamp_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_lamp_fantasy"
 msgid "Cast an enchanting glow."
@@ -341196,6 +341406,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.decor_lamp_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_lamp_western"
 msgid "Enjoy good company and conversation in the warm glow of this lamp."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.decor_phonograph_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_phonograph_cawnival"
+msgid "Move to the beak!"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.decor_phonograph_fantasy
@@ -341218,6 +341433,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_phonograph_western"
 msgid "Provides the perfect accompaniment to those nights by a roaring fire."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_cawnival"
+msgid "For fond memories of Cawnivals past."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_fantasy"
 msgid "Capture your magical moments."
@@ -341236,6 +341456,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_pictureframe_western"
 msgid "Evenings are for remembering."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.decor_portraitframe_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.decor_portraitframe_cawnival"
+msgid "This fledgling crow stands boldly in defiant blue hue attire."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.decor_portraitframe_fantasy
@@ -343061,6 +343286,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.fishbox_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishbox_pirate"
 msgid "The perfect hiding spot for fishy cargo."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.flotationcushion_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.flotationcushion_cawnival"
+msgid "Take the festivities to the open water - comfortably afloat."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown
@@ -348673,6 +348903,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_woodie_survivor"
 msgid "This Chest contains Woodie's complete set of Survivor skin items."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_cawnival"
+msgid "This Cawnival Woodworking Chest contains the following belongings skin items: Cawnival Display Table, Cawnival Show Table, Cawnival Ribboned Chair, Cawnival Stool, Caw of the Cawnival, Cawnival Vase, Cawnival Evening Lamp, Cawnival Frame, The Blue Boid, and Cawnival Mood Setter."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_woodworking_fantasy"
 msgid "This Fantasmical Woodworking Chest contains the following belongings skin items: Enchanting Woodland Table, Four-Leg Clover Table, Four-Leg Clover Chair, Toadstool, Horn of Lushness, Blooming Vase, Pixie Cut Lamp, Blooming Border, The Birth of Mermus, and Flora Melodica."
@@ -351573,6 +351808,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.reviver_lifecrystal"
 msgid "A shimmering, life-giving crystal."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.round_table_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.round_table_cawnival"
+msgid "Show off your winnings!"
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.round_table_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.round_table_fantasy"
 msgid "A table straight from a fairy tale."
@@ -352293,6 +352533,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_spookyp"
 msgid "Repel the dark these Hallowed Nights with a dreadful beacon of most Hallowed Light."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.torch_tesla
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_tesla"
+msgid "Don't mind that odd buzzing sound, this new invention is perfectly safe! ...Probably."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.tornado_crow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tornado_crow"
 msgid "n/a"
@@ -352341,6 +352586,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.treasurechest_carpetbag
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.treasurechest_carpetbag"
 msgid "This bag made from luxurious carpet is the height of modern fashion!"
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.treasurechest_clock
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.treasurechest_clock"
+msgid "This sturdy chest has been clocked up tight."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.treasurechest_corruption
@@ -352696,6 +352946,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.walrushat_cawnival
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_cawnival"
 msgid "This bonny cap will have you crowing with delight."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.walrushat_ceremonial
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_ceremonial"
+msgid "The height of Highland sophistication."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.walrushat_party
@@ -353221,6 +353476,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithr_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithr_yule"
 msgid "A true warrior adapts to the elements."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wathgrithrhat_flower
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wathgrithrhat_flower"
+msgid "These beautiful blooms have had to fight for survival in the unforgiving wilderness."
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wathgrithrhat_lunar
@@ -354743,6 +355003,11 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.wonkey_none"
 msgid "Just an ordinary monkey."
 msgstr ""
 
+#. STRINGS.SKIN_DESCRIPTIONS.wood_chair_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wood_chair_cawnival"
+msgid "Winning is hard work. You deserve a rest."
+msgstr ""
+
 #. STRINGS.SKIN_DESCRIPTIONS.wood_chair_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wood_chair_fantasy"
 msgid "Plant your lucky rear right here."
@@ -354761,6 +355026,11 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.wood_chair_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wood_chair_western"
 msgid "A luxurious seat for the most discerning of rumps."
+msgstr ""
+
+#. STRINGS.SKIN_DESCRIPTIONS.wood_table_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.wood_table_cawnival"
+msgid "Put your Cawnival prizes on display!"
 msgstr ""
 
 #. STRINGS.SKIN_DESCRIPTIONS.wood_table_fantasy
@@ -355581,6 +355851,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.amulet_yellow_an
 msgctxt "STRINGS.SKIN_NAMES.amulet_yellow_an"
 msgid "Nouveau Amulet"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.amulet_yellow_flame
+msgctxt "STRINGS.SKIN_NAMES.amulet_yellow_flame"
+msgid "Firebrite Amulet"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.amulet_yellow_ornate
@@ -359023,6 +359298,11 @@ msgctxt "STRINGS.SKIN_NAMES.bundle_kitchen"
 msgid "Cloth Wrap"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.bundle_metal
+msgctxt "STRINGS.SKIN_NAMES.bundle_metal"
+msgid "Iron Containment Unit"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.bundle_mystical
 msgctxt "STRINGS.SKIN_NAMES.bundle_mystical"
 msgid "Mystic Weave Wrap"
@@ -359046,6 +359326,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.bundlewrap_kitchen
 msgctxt "STRINGS.SKIN_NAMES.bundlewrap_kitchen"
 msgid "Cloth Wrap"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.bundlewrap_metal
+msgctxt "STRINGS.SKIN_NAMES.bundlewrap_metal"
+msgid "Iron Containment Unit"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.bundlewrap_mystical
@@ -359151,6 +359436,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.cavein_boulder_kettlebell
 msgctxt "STRINGS.SKIN_NAMES.cavein_boulder_kettlebell"
 msgid "Boulder Bell"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.chair_stool_cawnival
+msgctxt "STRINGS.SKIN_NAMES.chair_stool_cawnival"
+msgid "Cawnival Stool"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.chair_stool_fantasy
@@ -359278,6 +359568,11 @@ msgctxt "STRINGS.SKIN_NAMES.critterlab_gothic"
 msgid "Brooding Den"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.decor_centerpiece_cawnival
+msgctxt "STRINGS.SKIN_NAMES.decor_centerpiece_cawnival"
+msgid "Caw of the Cawnival"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.decor_centerpiece_fantasy
 msgctxt "STRINGS.SKIN_NAMES.decor_centerpiece_fantasy"
 msgid "Horn of Lushness"
@@ -359296,6 +359591,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.decor_centerpiece_western
 msgctxt "STRINGS.SKIN_NAMES.decor_centerpiece_western"
 msgid "Yoke 'n a Half"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.decor_flowervase_cawnival
+msgctxt "STRINGS.SKIN_NAMES.decor_flowervase_cawnival"
+msgid "Cawnival Vase"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.decor_flowervase_fantasy
@@ -359318,6 +359618,11 @@ msgctxt "STRINGS.SKIN_NAMES.decor_flowervase_western"
 msgid "Parlor Vase"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.decor_lamp_cawnival
+msgctxt "STRINGS.SKIN_NAMES.decor_lamp_cawnival"
+msgid "Cawnival Evening Lamp"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.decor_lamp_fantasy
 msgctxt "STRINGS.SKIN_NAMES.decor_lamp_fantasy"
 msgid "Pixie Cut Lamp"
@@ -359336,6 +359641,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.decor_lamp_western
 msgctxt "STRINGS.SKIN_NAMES.decor_lamp_western"
 msgid "Parlor Lamp"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.decor_phonograph_cawnival
+msgctxt "STRINGS.SKIN_NAMES.decor_phonograph_cawnival"
+msgid "Cawnival Mood Setter"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.decor_phonograph_fantasy
@@ -359358,6 +359668,11 @@ msgctxt "STRINGS.SKIN_NAMES.decor_phonograph_western"
 msgid "Parlor Gramophone"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.decor_pictureframe_cawnival
+msgctxt "STRINGS.SKIN_NAMES.decor_pictureframe_cawnival"
+msgid "Cawnival Frame"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.decor_pictureframe_fantasy
 msgctxt "STRINGS.SKIN_NAMES.decor_pictureframe_fantasy"
 msgid "Blooming Border"
@@ -359376,6 +359691,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.decor_pictureframe_western
 msgctxt "STRINGS.SKIN_NAMES.decor_pictureframe_western"
 msgid "Parlor Border"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.decor_portraitframe_cawnival
+msgctxt "STRINGS.SKIN_NAMES.decor_portraitframe_cawnival"
+msgid "The Blue Boid"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.decor_portraitframe_fantasy
@@ -361201,6 +361521,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.fishbox_pirate
 msgctxt "STRINGS.SKIN_NAMES.fishbox_pirate"
 msgid "Piratin' Bin"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.flotationcushion_cawnival
+msgctxt "STRINGS.SKIN_NAMES.flotationcushion_cawnival"
+msgid "Cawnival Cushion Floater"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.flowerhat_crown
@@ -366813,6 +367138,11 @@ msgctxt "STRINGS.SKIN_NAMES.pack_woodie_survivor"
 msgid "Woodie Survivor Chest"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.pack_woodworking_cawnival
+msgctxt "STRINGS.SKIN_NAMES.pack_woodworking_cawnival"
+msgid "Cawnival Woodworking Chest"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.pack_woodworking_fantasy
 msgctxt "STRINGS.SKIN_NAMES.pack_woodworking_fantasy"
 msgid "Fantasmical Woodworking Chest"
@@ -369713,6 +370043,11 @@ msgctxt "STRINGS.SKIN_NAMES.reviver_lifecrystal"
 msgid "Life Crystal"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.round_table_cawnival
+msgctxt "STRINGS.SKIN_NAMES.round_table_cawnival"
+msgid "Cawnival Display Table"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.round_table_fantasy
 msgctxt "STRINGS.SKIN_NAMES.round_table_fantasy"
 msgid "Enchanting Woodland Table"
@@ -370433,6 +370768,11 @@ msgctxt "STRINGS.SKIN_NAMES.torch_spookyp"
 msgid "Hallowed Light"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.torch_tesla
+msgctxt "STRINGS.SKIN_NAMES.torch_tesla"
+msgid "Electro-Neutronic Torch"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.tornado_crow
 msgctxt "STRINGS.SKIN_NAMES.tornado_crow"
 msgid "n/a"
@@ -370481,6 +370821,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.treasurechest_carpetbag
 msgctxt "STRINGS.SKIN_NAMES.treasurechest_carpetbag"
 msgid "Carpet Bag"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.treasurechest_clock
+msgctxt "STRINGS.SKIN_NAMES.treasurechest_clock"
+msgid "Clockmaker's Chest"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.treasurechest_corruption
@@ -370836,6 +371181,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.walrushat_cawnival
 msgctxt "STRINGS.SKIN_NAMES.walrushat_cawnival"
 msgid "Cawnival Tammie"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.walrushat_ceremonial
+msgctxt "STRINGS.SKIN_NAMES.walrushat_ceremonial"
+msgid "Dapper Tammie"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.walrushat_party
@@ -371361,6 +371711,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wathgrithr_yule
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_yule"
 msgid "The Merrymaker"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wathgrithrhat_flower
+msgctxt "STRINGS.SKIN_NAMES.wathgrithrhat_flower"
+msgid "Wildflower Helm"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wathgrithrhat_lunar
@@ -372883,6 +373238,11 @@ msgctxt "STRINGS.SKIN_NAMES.wonkey_none"
 msgid "Wonkey"
 msgstr ""
 
+#. STRINGS.SKIN_NAMES.wood_chair_cawnival
+msgctxt "STRINGS.SKIN_NAMES.wood_chair_cawnival"
+msgid "Cawnival Ribboned Chair"
+msgstr ""
+
 #. STRINGS.SKIN_NAMES.wood_chair_fantasy
 msgctxt "STRINGS.SKIN_NAMES.wood_chair_fantasy"
 msgid "Four-Leg Clover Chair"
@@ -372901,6 +373261,11 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wood_chair_western
 msgctxt "STRINGS.SKIN_NAMES.wood_chair_western"
 msgid "Parlor Wooden Chair"
+msgstr ""
+
+#. STRINGS.SKIN_NAMES.wood_table_cawnival
+msgctxt "STRINGS.SKIN_NAMES.wood_table_cawnival"
+msgid "Cawnival Show Table"
 msgstr ""
 
 #. STRINGS.SKIN_NAMES.wood_table_fantasy
@@ -376251,6 +376616,11 @@ msgstr ""
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FISHBOX
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.FISHBOX"
 msgid "Tin Fishin' Bin "
+msgstr ""
+
+#. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FLOTATIONCUSHION
+msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.FLOTATIONCUSHION"
+msgid "Personal Floater"
 msgstr ""
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.FLOWERHAT
